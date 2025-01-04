@@ -40,7 +40,7 @@ These metrics can help in monitoring the performance of the system and understan
 ### Steps to Run
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repo-url>
+   git clone [git url](https://github.com/sarveshmishra561999/notification-system.git)
    cd notification-system/src
    node index.js
    ```
