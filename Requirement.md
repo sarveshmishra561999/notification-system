@@ -1,4 +1,5 @@
 # Distributed Notification and Alert System
+```markdown
 
 ## Objective
 Build a backend system to manage and deliver notifications based on user preferences and rules. This includes immediate notifications, scheduled alerts, and personalized delivery times, as well as support for query-driven notification logic.

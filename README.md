@@ -1,4 +1,7 @@
+
 # Distributed Notification and Alert System
+
+```markdown
 
 ## Description
 
@@ -40,7 +43,7 @@ These metrics can help in monitoring the performance of the system and understan
 ### Steps to Run
 1. Clone this repository to your local machine:
    ```bash
-   git clone [git url](https://github.com/sarveshmishra561999/notification-system.git)
+   git clone [git url](https://github.com/sarveshmishra561999/notification-system.git).
    cd notification-system/src
    node index.js
    ```
