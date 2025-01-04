@@ -1,8 +1,6 @@
 
 # Distributed Notification and Alert System
 
-```markdown
-
 ## Description
 
 This project is a **Distributed Notification and Alert System** designed to deliver notifications to users via multiple channels like **email**, **SMS**, and **push notifications**. The system supports **Kafka** for message processing, **MongoDB** for data storage, and integrates basic features like throttling, quiet hours, and prioritization. The system also includes an **analytics endpoint** to gather delivery statistics and user engagement metrics.

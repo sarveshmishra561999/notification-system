@@ -3,7 +3,6 @@
 
 ### **File: `FutureScope.md`**
 
-```markdown
 # Future Enhancements
 
 The following features are planned for future development to improve the Distributed Notification and Alert System:
